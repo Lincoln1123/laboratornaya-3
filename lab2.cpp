@@ -58,6 +58,7 @@ public:
 
 
 void main() {
+	cout << "Ya Egor Eliseev group ÁÏÈ21-02" << endl;
 	setlocale(0, "");
 	menu();
 	//autopark adas;

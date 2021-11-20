@@ -63,7 +63,7 @@ void main() {
 	//autopark adas;
 	//adas.zagolovok();
 	cout << "Branchj Vadim" << endl;
-	cout << "hello world" << endl;
+	cout << "hello" << endl;
 }
 
 void menu() {
